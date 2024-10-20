@@ -1,0 +1,10 @@
+{
+  "name": "programing_with_javascript_course_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beginner_exercises_javascript/exercise_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
